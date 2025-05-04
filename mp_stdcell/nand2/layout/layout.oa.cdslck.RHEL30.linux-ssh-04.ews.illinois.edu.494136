@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ykfu2
+HostName                       linux-ssh-04.ews.illinois.edu
+ProcessIdentifier              494136
+ProcessCreationTime_UTC        1739418972
+ProcessCreationTime_Readable   Wed Feb 12 21:56:12 2025 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ykfu2/ece425.work/mp_stdcell/nand2/layout/layout.oa.cdslck
+TimeEditLocked                 Wed Feb 12 23:19:27 2025 CST

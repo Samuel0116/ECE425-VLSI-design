@@ -1,0 +1,1 @@
+../../sim/hvl/magic_dual_port.sv

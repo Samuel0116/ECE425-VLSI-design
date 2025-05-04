@@ -1,0 +1,17 @@
+DMEM: Write to 1a500004 with 1a500000
+DMEM: Write to 1a500008 with aa55a000
+DMEM: Write to 1a500010 with 10000020
+DMEM: Write to 1a500014 with 00000233
+DMEM: Write to 1a500018 with ffffffff
+DMEM: Write to 1a50001c with 00000000
+DMEM: Write to 1a500020 with 00000001
+DMEM: Write to 1a500024 with 00000001
+DMEM: Write to 1a500028 with 00000000
+DMEM: Write to 1a50002c with 00000020
+DMEM: Write to 1a500030 with ffffff82
+DMEM: Write to 1a500034 with 00000082
+DMEM: Write to 1a500038 with ffff8267
+DMEM: Write to 1a50003c with 00008267
+DMEM: Write to 1a500040 with 02418267
+DMEM: Write to 1a500044 with ba55a020
+DMEM: Write to 1a500048 with 02418000

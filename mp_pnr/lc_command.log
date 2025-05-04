@@ -1,0 +1,7 @@
+#@ # 
+#@ # Running lc_shell Version W-2024.09 for linux64 -- Aug 25, 2024
+#@ # Date:   Wed Apr 30 18:01:37 2025
+#@ # Run by: ykfu2@linux-ssh-01.ews.illinois.edu
+#@ 
+
+source -echo -verbose lc.tcl
